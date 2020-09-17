@@ -22,6 +22,7 @@
 - Octavo se prueba que funionen las dos apps
 ### Interfaces del Administrador
 ![interfaceadmin1](https://user-images.githubusercontent.com/38759833/93405968-203c8580-f854-11ea-9df1-eeb2227f9c6f.PNG)
+![intercaseadmin2](https://user-images.githubusercontent.com/38759833/93406248-ce482f80-f854-11ea-933b-ea7850ffba0c.PNG)
 ### Interfaces del usuario
 ### link de youtube
 ### links de referencia
