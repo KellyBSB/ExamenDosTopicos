@@ -26,6 +26,7 @@
 ### Interfaces del usuario
 ![login](https://user-images.githubusercontent.com/38759833/93406359-15362500-f855-11ea-8ed0-35241c462b16.PNG)
 ![resgistro](https://user-images.githubusercontent.com/38759833/93410152-1455c100-f85e-11ea-8fce-0ef5844efc85.PNG)
+![Buscador y categorias](https://user-images.githubusercontent.com/38759833/93410221-351e1680-f85e-11ea-8bc5-56b87c85f1f1.PNG)
 
 ### Base de datos
 ![basededatos](https://user-images.githubusercontent.com/38759833/93407579-29c7ec80-f858-11ea-8bbf-a551f1303997.PNG)
