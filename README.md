@@ -23,8 +23,8 @@
 ### Interfaces del Administrador
 ![interfaceadmin1](https://user-images.githubusercontent.com/38759833/93405968-203c8580-f854-11ea-9df1-eeb2227f9c6f.PNG)
 ![intercaseadmin2](https://user-images.githubusercontent.com/38759833/93406248-ce482f80-f854-11ea-933b-ea7850ffba0c.PNG)
-![login](https://user-images.githubusercontent.com/38759833/93406359-15362500-f855-11ea-8ed0-35241c462b16.PNG)
 ### Interfaces del usuario
+![login](https://user-images.githubusercontent.com/38759833/93406359-15362500-f855-11ea-8ed0-35241c462b16.PNG)
 ### link de youtube
 ### links de referencia
 https://www.youtube.com/watch?v=81bsliZCj7E&list=LL&index=2&t=0s
