@@ -11,3 +11,11 @@
   narrado alguna parte por cada estudiante.
 - Repositorio en github del código fuente con un readme detallado de su solución, el readme
   debe contener el link de youtube.
+### Interfaces del Administrador
+### Interfaces del usuario
+### link de youtube
+### links de referencia
+https://www.youtube.com/watch?v=81bsliZCj7E&list=LL&index=2&t=0s
+https://www.youtube.com/watch?v=WND9mw3HiBM&list=LL&index=25&t=2784s
+https://www.youtube.com/watch?v=hRvbU39ugIA&list=LL&index=24&t=0s
+ 
