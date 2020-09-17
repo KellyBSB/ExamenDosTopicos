@@ -1,0 +1,47 @@
+<ion-header>
+  <ion-toolbar color ="primary">
+    <ion-title>Registrar</ion-title>
+  </ion-toolbar>
+</ion-header>
+<nav class="navbar navbar-dark bg-dark">
+  <a class="navbar-brand" href="/">Registrar</a>
+</nav>
+<ion-content padding>
+
+  <ion-item>
+    <ion-label>
+      Nombre Usuario
+    </ion-label>
+    <ion-input type="text" [(ngModel)]="nameUser.name">
+      
+    </ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label>
+      Email
+    </ion-label>
+    <ion-input type="text" [(ngModel)]="user.email">
+      
+    </ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label>
+      Contraseña
+    </ion-label>
+    <ion-input type="password" [(ngModel)]="user.password">
+      
+    </ion-input>
+  </ion-item>
+
+  <ion-item-divider>
+    <ion-button size="large" (click)= "onRegister()">
+      Registrar
+    </ion-button>
+    <ion-button size="large" href="/login">
+      Login
+    </ion-button>
+  </ion-item-divider>
+
+</ion-content>
