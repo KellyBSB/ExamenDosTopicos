@@ -1,8 +1,8 @@
 # ExamenDosTopicos
-- 1. Desarrollar una app que me permita buscar y revisar las reseñas de una determinada serie o película, dichos datos lo puede consumir del API REST
-- 2. Historial de búsqueda por usuario y su geolocalización.
-- 3. Todas las aplicaciones deben tener validación de usuario (login) y deben usar firebase para guardar cualquier tipo de dato         adicional al login.
-- 4. Debe haber una aplicación web que pueda acceder como administrador para ver los usuarios
+- Desarrollar una app que me permita buscar y revisar las reseñas de una determinada serie o película, dichos datos lo puede consumir  del API REST
+- Historial de búsqueda por usuario y su geolocalización.
+- Todas las aplicaciones deben tener validación de usuario (login) y deben usar firebase para guardar cualquier tipo de dato         adicional al login.
+- Debe haber una aplicación web que pueda acceder como administrador para ver los usuarios
   y sus historiales con geolocalización. Este administrador podrá agregar, eliminar, editar o
  borrar usuarios.
 ### Entregables
