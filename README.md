@@ -32,6 +32,7 @@
 ![basededatos](https://user-images.githubusercontent.com/38759833/93407579-29c7ec80-f858-11ea-8bbf-a551f1303997.PNG)
 ![usuarios](https://user-images.githubusercontent.com/38759833/93410104-f8521f80-f85d-11ea-92b4-b2a0ff367679.PNG)
 ### link de youtube
+https://youtu.be/gzwXcqDMhOk
 ### links de referencia
 https://www.youtube.com/watch?v=81bsliZCj7E&list=LL&index=2&t=0s
 https://www.youtube.com/watch?v=WND9mw3HiBM&list=LL&index=25&t=2784s
